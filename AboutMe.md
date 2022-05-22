@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kyrillos
 - 👀 I’m interested in Computer Science & Software development
-- 🌱 I’m currently learning cs50 and other computer science courses
 - 📫 How to reach me ... :
      * https://www.facebook.com/IKyrillosMaher/
      * https://www.instagram.com/lkyrillos_maher/
