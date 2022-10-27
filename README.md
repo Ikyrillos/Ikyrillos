@@ -211,10 +211,5 @@
         />
       </p>
 
-      <p>
-        &nbsp;<img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en"
-          alt="ikyrillos"
-        />
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en" alt="ikyrillos" />
       </p>
