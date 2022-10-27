@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-4b69b.web.app/#/](https://portfolio-4b69b.web.app/#/)
 
-- 📝 I've started a new blogw, you are welcomed to : [https://devcoffeearea.blogspot.com/](https://devcoffeearea.blogspot.com/)
+- 📝 I've started a new blog, you are welcomed to : [https://devcoffeearea.blogspot.com/](https://devcoffeearea.blogspot.com/)
 
 - 💬 Ask me about **Flutter, Dart**
 
