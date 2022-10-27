@@ -34,6 +34,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/and
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikyrillos&show_icons=true&locale=en&layout=compact" alt="ikyrillos" /></p>
 
 
-<div style="margin-right: 30px; color: red">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en" alt="ikyrillos" /></p>
-<div/>
+
