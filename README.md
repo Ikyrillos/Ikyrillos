@@ -201,11 +201,20 @@
       </a>
     </p>
 
+ 
     <div style="display: flex; flex-direction: column; align-items: flex-start">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikyrillos&show_icons=true&locale=en&layout=compact" alt="ikyrillos" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en" alt="ikyrillos" /></p>
+      <p>
+        <img
+          align="left"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=ikyrillos&show_icons=true&locale=en&layout=compact"
+          alt="ikyrillos"
+        />
       </p>
-    </div>
+
+      <p>
+        &nbsp;<img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en"
+          alt="ikyrillos"
+        />
+      </p>
