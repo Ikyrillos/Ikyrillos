@@ -110,7 +110,6 @@
         /> </a
       ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
-             style"  background-color: white;"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
           alt="aws"
           width="40"
