@@ -53,6 +53,14 @@
         height="40"
       />
     </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/flutterio/kotlinio-icon.svg"
+        alt="flutter"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
