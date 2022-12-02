@@ -55,7 +55,7 @@
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
       <img
-       src="https://www.vectorlogo.zone/logos/kotlinlang/android-original-wordmark.svg"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
         alt="Android"
         width="40"
         height="40"
