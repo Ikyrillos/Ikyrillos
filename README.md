@@ -208,7 +208,7 @@
       </a>
     </p>
 
- 
+    <h3 align="left">Most Used Languages:</h3>
     <div style="display: flex; flex-direction: column; align-items: flex-start">
       <p>
         <img
@@ -217,7 +217,7 @@
           alt="ikyrillos"
         />
       </p>
-
+     <h3 align="left"Progress:</h3>
      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en" alt="ikyrillos" />
       </p>
       <div style="display: flex; flex-direction: column; align-items: flex-start">
