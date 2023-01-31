@@ -206,12 +206,13 @@
           height="40"
         />
       </a>
-     [![Kyrillos's github stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+     [
+    </p>
+
+
+![Kyrillos's github stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 This is just a github metric of which languages I have the most code on github.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos)](https://github.com/anuraghazra/github-readme-stats)
      
-    </p>
-
-
