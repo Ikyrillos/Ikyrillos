@@ -208,15 +208,9 @@
       </a>
     </p>
 
-    <div style="display: flex; flex-direction: column; align-items: flex-start">
-      <p>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=ikyrillos&show_icons=true&locale=en&layout=compact"
-          alt="ikyrillos"
-        />
-      </p>
-     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikyrillos&show_icons=true&locale=en" alt="ikyrillos" />
-      </p>
-      <div style="display: flex; flex-direction: column; align-items: flex-start">
+   [![Kyrillos's github stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+This is just a github metric of which languages I have the most code on github.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos)](https://github.com/anuraghazra/github-readme-stats)
      
