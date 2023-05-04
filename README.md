@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Favourite quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ikyrillos&icon=0&color=3)](https://visitcount.itsvg.in)
