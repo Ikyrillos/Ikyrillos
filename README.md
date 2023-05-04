@@ -3,216 +3,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4080DCDC&center=true&vCenter=true&width=435&lines=Welcome+to+Kyrillos's+GitHub!" alt="Typing SVG" /></a>
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer, I'm passionate about building beautiful and high-performance Cross-platform applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikyrillos&label=Profile%20views&color=0e75b6&style=flat" alt="ikyrillos" /> </p>
-
-- 🌱 I’m currently learning **Flutter, Android Native with kotlin**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-4b69b.web.app/#/](https://portfolio-4b69b.web.app/#/)
-
-- 💬 Ask me about **Flutter, Dart**
-
-- 📫 How to reach me **kyrillosmaherfekri@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A35GxNSVvb2xtJMq9UEQdPvUeOHfv1_-/view?usp=sharing](https://drive.google.com/file/d/1A35GxNSVvb2xtJMq9UEQdPvUeOHfv1_-/view?usp=sharing)
-
-  <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <a href="https://linkedin.com/in/kyrillosmaher" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="kyrillosmaher"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://fb.com/ikyrillosmaher" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="ikyrillosmaher"
-          height="30"
-          width="40"
-      /></a>
-    </p>
-    <h3 align="left">Mainly working with:</h3>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-        alt="dart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-      />
-    </a>
-
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux"
-        width="40"
-        height="40"
-      />
-    </a>
-
-    <h3 align="left">Other Languages and Tools:</h3>
-    <p align="left">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img
-       src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-        alt="kotlin"
-        width="40"
-        height="40"
-      />
-    </a>
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-          alt="android"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.gnu.org/software/bash/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-          alt="bash"
-          width="40"
-          height="40"
-        /> </a
-      ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-          alt="aws"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-          alt="postman"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-          alt="sqlite"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.adobe.com/products/xd.html"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-          alt="xd"
-          width="40"
-          height="40"
-        />
-      </a>
-     
-    </p>
+# 💫 About Me:
+🌱 I’m currently learning Flutter, Android Native with kotlin<br><br>👨‍💻 All of my projects are available at https://portfolio-4b69b.web.app/#/<br><br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me kyrillosmaherfekri@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1A35GxNSVvb2xtJMq9UEQdPvUeOHfv1_-/view?usp=sharing
 
 
-[![Kyrillos's github stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IKyrillosMaher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kyrillosmaher) 
 
-This is just a github metric of which languages I have the most code on github.
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ikyrillos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos)](https://github.com/anuraghazra/github-readme-stats)
-     
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ikyrillos&icon=0&color=3)](https://visitcount.itsvg.in)
+
