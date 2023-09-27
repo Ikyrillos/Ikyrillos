@@ -4,7 +4,8 @@
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer, I'm passionate about building beautiful and high-performance Cross-platform applications</h3>
 
 # 💫 About Me:
-✨ I’m currently a junior Flutter developer who is passionate about every learning opportunity.<br><br>👨‍💻 All of my projects are available at https://portfolio-4b69b.web.app/#/<br><br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me kyrillosmaherfekri@gmail.com<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OblGkHRaPqiT_9lX0SPlbHgIaquiVR2b/view?usp=sharing)
+✨ I’m currently a junior Flutter developer who is passionate about every learning opportunity.<br><br>👨‍💻 All of my projects are available at https://portfolio-4b69b.web.app/#/<br><br>💬 Ask me about Flutter, Dart<br><br>📫 How to reach me kyrillosmaherfekri@gmail.com<br><br>📄 Know about my experiences                                                                   
+[Resume](https://drive.google.com/file/d/1OblGkHRaPqiT_9lX0SPlbHgIaquiVR2b/view?usp=sharing)
 
 
 ## 🌐 Socials:
