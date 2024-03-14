@@ -20,6 +20,14 @@
   - ![Bloc](https://img.shields.io/badge/-Bloc-C60C30?style=flat-square&logo=bloc&logoColor=white): Used Bloc/Cubit as the main state management solution.
   - ![Custom APIs](https://img.shields.io/badge/-Custom%20APIs-C60C30?style=flat-square&logo=apis&logoColor=white): Used Bloc/Cubit as the main state management solution.
   - ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white): [Download on Google Play](https://play.google.com/store/apps/details?id=com.bund.bund)
+ 
+### Deraya
+- **Description:** An application for private use, whose mission is to facilitate the sale process for Deraya employees, with tables, SQL database, automatic calculations based on the employee's choices, files downloading/uploading, data analysis, employees managment. and more screens.
+- **Technologies & Skills Used:**
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white): Built the entire application.
+  - ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white): Programming language for Flutter development.
+  - ![Bloc](https://img.shields.io/badge/-Bloc-C60C30?style=flat-square&logo=bloc&logoColor=white): Used Bloc/Cubit as the main state management solution.
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black): Used for backend services.
   
 ### Vita
 - **Description:** An App that facilitate the operation of finding medicine  and medical equipment in all over Egypt providing users map to pharmacies and suppliers, with an easy to use chat between doctors and users 
