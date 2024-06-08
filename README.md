@@ -65,8 +65,7 @@
 - **RESTful APIs**: Capable of integrating and interacting with RESTful APIs for data exchange.
 - **React**: Proficient in building web applications using React.
 - **Next.js**: Experience in server-side rendering with Next.js.
-- **Android Native Development**: Knowledge of Android native development with Java and Kotlin.
-- **Kotlin**: Experience in Android app development using Kotlin.
+- **Android Native Development**: Knowledge of Android native development with Kotlin.
 - **Git Version Control**: Proficient in using Git for version control and collaboration.
 
 # 💻 Tech Stack:
