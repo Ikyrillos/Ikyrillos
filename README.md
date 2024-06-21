@@ -63,7 +63,7 @@
 - **Bloc/Cubit State Management**: Experienced in implementing state management using Bloc/Cubit architecture.
 - **Firebase Integration**: Familiar with integrating Firebase services into Flutter applications.
 - **RESTful APIs**: Capable of integrating and interacting with RESTful APIs for data exchange.
-- **React**: Proficient in building web applications using React.
+- **Fullstack MERN **: Proficient in building fullstack web applications using React,nodejs,express,mongodb.
 - **Next.js**: Experience in server-side rendering with Next.js.
 - **Android Native Development**: Knowledge of Android native development with Kotlin.
 - **Git Version Control**: Proficient in using Git for version control and collaboration.
