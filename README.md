@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Kyrillos Maher</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&color=2FF78D&center=true&vCenter=true&width=435&lines=Weclome+to+Kyrillos's+Github!" alt="Typing SVG" /></a>
+
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer, I'm passionate about building beautiful and high-performance Cross-platform applications</h3>
 
 # 💫 About Me:
