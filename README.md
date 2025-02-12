@@ -13,26 +13,50 @@
 
 ## Projects
 
+## King Slice
+[Google Play](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)  
+[App Store](https://apps.apple.com/gb/app/king-slice/id6739634206)  
+**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+
+---
+
+## Alostora Seafood
+[Google Play](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)  
+[App Store](https://apps.apple.com/gb/app/alostora/id6740809005)  
+**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+
+---
+
+## Second Serving
+[App Store](https://apps.apple.com/gb/app/second-serving/id6741741762)  
+**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+
+---
+
 ### bünd
 - **Description:** Simplifies financial management with a secure, flexible app. Features instant transactions, secure investments, and privacy protection.
 - **Technologies:** 
   - Flutter, Dart, Dio, Bloc, Custom APIs
   - [Google Play](https://play.google.com/store/apps/details?id=com.bund.bund)
+---
 
 ### Deraya
 - **Description:** Facilitates sales processes with database management, automatic calculations, and data analysis for employees.
 - **Technologies:** 
   - Flutter, Dart, Bloc, Firebase
+---
 
 ### Vita
 - **Description:** Helps users find medicine and medical equipment across Egypt with an integrated chat system for doctors and users.
 - **Technologies:** 
   - Flutter, Dart, Bloc, Firebase
+---
 
 ### Lemon Spaces
 - **Description:** Offers seamless booking and data analysis to enhance customer experience.
 - **Technologies:** 
   - Flutter, Dart, Bloc, RESTful APIs, Firebase
+---
 
 ### HeadsHunt
 - **Description:** Integrates payment, authentication, Google Maps, and location tracking for an enhanced user experience.
@@ -43,6 +67,7 @@
 - **Flutter Development:** Expert in developing mobile applications using Flutter.
 - **Dart Programming:** Proficient in Dart for Flutter development.
 - **Bloc/Cubit State Management:** Experienced in state management with Bloc/Cubit architecture.
+- **Riverpod State Management:** Experienced in state management with Riverpod.
 - **Firebase Integration:** Skilled in integrating Firebase services.
 - **RESTful APIs:** Capable of working with RESTful APIs.
 - **Fullstack MERN:** Proficient in React, Node.js, Express, MongoDB.
