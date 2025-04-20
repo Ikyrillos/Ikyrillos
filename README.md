@@ -5,7 +5,7 @@
 <p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
 
 ## About Me
-- 🔭 Currently working as a mid-senior Flutter developer
+- 🔭 Currently working as a Senior Flutter developer
 - 🌐 Check out my projects at [My Portfolio](https://kyrillos-maher.vercel.app/)
 - 💬 Ask me about Flutter and Dart
 - 📫 Reach me at kyrillosmaherfekri@gmail.com
