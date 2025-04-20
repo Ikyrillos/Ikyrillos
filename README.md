@@ -6,7 +6,7 @@
 
 ## About Me
 - 🔭 Currently working as a Senior Flutter developer
-- 🌐 Check out my projects at [My Portfolio](https://kyrillos-maher.vercel.app/)
+- 🌐 Check out my projects at [My Portfolio](https://www.compiled-thoughts.tech/about)
 - 💬 Ask me about Flutter and Dart
 - 📫 Reach me at kyrillosmaherfekri@gmail.com
 - 📄 Learn more about my experiences [here](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
