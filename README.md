@@ -13,12 +13,6 @@
 
 ## Projects
 
-## Swap
-[Google Play](https://play.google.com/store/apps/details?id=com.swapegypt.app&hl=en)  
-[App Store](https://apps.apple.com/eg/app/swap-social-marketplace/id6502955632)  
-**Technologies:** Flutter, Dart, Dio, Getx, Google & Apple Auth and more
-
----
 
 ## King Slice
 [Google Play](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)  
