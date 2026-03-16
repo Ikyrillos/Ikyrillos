@@ -1,4 +1,4 @@
-# ⚡ Kyrillos Maher
+#  Kyrillos Maher
 
 > Senior Flutter Developer • Full-Stack Engineer • Engineering Mentor
 
@@ -17,7 +17,7 @@ Mobile engineer building **high-performance cross-platform apps** and **scalable
 
 ---
 
-# 🧠 System Profile
+#  System Profile
 
 ```bash
 > whoami
@@ -38,28 +38,27 @@ Build scalable and beautiful software
 
 ---
 
-# 🚀 Current Operations
+#  Current Operations
 
-* 🔭 Senior **Full-Stack Software Engineer — Bookit**
-* 🧠 Architecting restaurant ecosystem at **Tawila**
-* 🎓 **Session Lead — Udacity**
-* 🧑‍🏫 **Flutter Instructor — Div Academy**
-* ⚙ Building scalable **Flutter + Node.js platforms**
-
----
-
-# 🌐 Links
-
-* 🌍 Portfolio — [https://www.compiled-thoughts.tech/about](https://www.compiled-thoughts.tech/about)
-* 💼 LinkedIn — [https://www.linkedin.com/in/kyrillosmaher](https://www.linkedin.com/in/kyrillosmaher)
-* 🧠 GitHub — [https://github.com/Ikyrillos](https://github.com/Ikyrillos)
-* 📫 Email — [kyrillosmaherfekri@gmail.com](mailto:kyrillosmaherfekri@gmail.com)
+*  Senior **Full-Stack Software Engineer — Bookit**
+*  Architecting restaurant ecosystem at **Tawila**
+*  **Flutter Instructor — Div Academy**
+*  Building scalable **Flutter + Node.js platforms**
 
 ---
 
-# 🚀 Deployed Applications
+#  Links
 
-## 🍕 King Slice
+*  Portfolio — [https://www.compiled-thoughts.tech/about](https://www.compiled-thoughts.tech/about)
+*  LinkedIn — [https://www.linkedin.com/in/kyrillosmaher](https://www.linkedin.com/in/kyrillosmaher)
+*  GitHub — [https://github.com/Ikyrillos](https://github.com/Ikyrillos)
+*  Email — [kyrillosmaherfekri@gmail.com](mailto:kyrillosmaherfekri@gmail.com)
+
+---
+
+#  Deployed Applications
+
+##  King Slice
 
 Google Play
 [https://play.google.com/store/apps/details?id=com.kingslice_pizza.app](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)
@@ -81,7 +80,7 @@ Responsive UI
 
 ---
 
-## 🦞 Alostora Seafood
+##  Alostora Seafood
 
 Google Play
 [https://play.google.com/store/apps/details?id=com.alostora_seafood.app](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)
@@ -117,7 +116,7 @@ Responsive UI
 
 ---
 
-# 🧩 Other Projects
+#  Other Projects
 
 ### bünd
 
@@ -191,7 +190,7 @@ Payments
 
 ---
 
-# ⚙ Tech Stack
+#  Tech Stack
 
 ### Mobile
 
@@ -215,7 +214,7 @@ Payments
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos\&show_icons=true\&theme=tokyonight)
 
@@ -225,17 +224,11 @@ Payments
 
 ---
 
-# 💬 Terminal Philosophy
+#  Terminal Philosophy
 
 ```
 > quote
 
 "Things don't turn up in this world until somebody turns them up."
 — James A. Garfield
-```
-
----
-
-![visitors](https://visitcount.itsvg.in/api?id=Ikyrillos\&icon=6\&color=12)
-
 ```
