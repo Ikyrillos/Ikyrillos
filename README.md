@@ -1,112 +1,241 @@
-<h1 align="center">Hi there 👋, I'm Kyrillos Maher</h1>
+# ⚡ Kyrillos Maher
 
-<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
+> Senior Flutter Developer • Full-Stack Engineer • Engineering Mentor
 
-<p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
+```
 
-## About Me
-- 🔭 Currently working as a Senior Flutter developer
-- 🌐 Check out my projects at [My Portfolio](https://www.compiled-thoughts.tech/about)
-- 💬 Ask me about Flutter and Dart
-- 📫 Reach me at kyrillosmaherfekri@gmail.com
-- 📄 Learn more about my experiences [here](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
+███████╗██╗   ██╗██████╗ ███████╗██████╗
+██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗
+███████╗██║   ██║██████╔╝█████╗  ██████╔╝
+╚════██║██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+███████║╚██████╔╝██║     ███████╗██║  ██║
+╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 
-## Projects
+````
 
-
-## King Slice
-[Google Play](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)  
-[App Store](https://apps.apple.com/gb/app/king-slice/id6739634206)  
-**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+Mobile engineer building **high-performance cross-platform apps** and **scalable backend systems**.
 
 ---
 
-## Alostora Seafood
-[Google Play](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)  
-[App Store](https://apps.apple.com/gb/app/alostora/id6740809005)  
-**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+# 🧠 System Profile
+
+```bash
+> whoami
+Kyrillos Maher
+
+> role
+Senior Flutter Developer / Full-Stack Engineer
+
+> experience
+~5 years
+
+> stack
+Flutter • Dart • Node.js • React • Next.js • PostgreSQL • MongoDB
+
+> mission
+Build scalable and beautiful software
+````
 
 ---
 
-## Second Serving
-[App Store](https://apps.apple.com/gb/app/second-serving/id6741741762)  
-**Technologies:** Flutter, Dart, Dio, Riverpod, Go Router, Responsive UI, Google & Apple Auth  
+# 🚀 Current Operations
+
+* 🔭 Senior **Full-Stack Software Engineer — Bookit**
+* 🧠 Architecting restaurant ecosystem at **Tawila**
+* 🎓 **Session Lead — Udacity**
+* 🧑‍🏫 **Flutter Instructor — Div Academy**
+* ⚙ Building scalable **Flutter + Node.js platforms**
 
 ---
+
+# 🌐 Links
+
+* 🌍 Portfolio — [https://www.compiled-thoughts.tech/about](https://www.compiled-thoughts.tech/about)
+* 💼 LinkedIn — [https://www.linkedin.com/in/kyrillosmaher](https://www.linkedin.com/in/kyrillosmaher)
+* 🧠 GitHub — [https://github.com/Ikyrillos](https://github.com/Ikyrillos)
+* 📫 Email — [kyrillosmaherfekri@gmail.com](mailto:kyrillosmaherfekri@gmail.com)
+
+---
+
+# 🚀 Deployed Applications
+
+## 🍕 King Slice
+
+Google Play
+[https://play.google.com/store/apps/details?id=com.kingslice_pizza.app](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)
+
+App Store
+[https://apps.apple.com/gb/app/king-slice/id6739634206](https://apps.apple.com/gb/app/king-slice/id6739634206)
+
+**Stack**
+
+```
+Flutter
+Dart
+Riverpod
+GoRouter
+Dio
+Google & Apple Authentication
+Responsive UI
+```
+
+---
+
+## 🦞 Alostora Seafood
+
+Google Play
+[https://play.google.com/store/apps/details?id=com.alostora_seafood.app](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)
+
+App Store
+[https://apps.apple.com/gb/app/alostora/id6740809005](https://apps.apple.com/gb/app/alostora/id6740809005)
+
+**Stack**
+
+```
+Flutter
+Riverpod
+Dio
+Authentication
+Responsive UI
+```
+
+---
+
+## 🍽 Second Serving
+
+App Store
+[https://apps.apple.com/gb/app/second-serving/id6741741762](https://apps.apple.com/gb/app/second-serving/id6741741762)
+
+**Stack**
+
+```
+Flutter
+Riverpod
+REST APIs
+Responsive UI
+```
+
+---
+
+# 🧩 Other Projects
 
 ### bünd
-- **Description:** Simplifies financial management with a secure, flexible app. Features instant transactions, secure investments, and privacy protection.
-- **Technologies:** 
-  - Flutter, Dart, Dio, Bloc, Custom APIs
-  - [Google Play](https://play.google.com/store/apps/details?id=com.bund.bund)
+
+Financial management platform with secure transactions and investments.
+
+**Tech**
+
+```
+Flutter
+Bloc
+Custom APIs
+Secure Architecture
+```
+
 ---
 
 ### Deraya
-- **Description:** Facilitates sales processes with database management, automatic calculations, and data analysis for employees.
-- **Technologies:** 
-  - Flutter, Dart, Bloc, Firebase
+
+Enterprise system for sales management and employee analytics.
+
+**Tech**
+
+```
+Flutter
+Bloc
+Firebase
+```
+
 ---
 
 ### Vita
-- **Description:** Helps users find medicine and medical equipment across Egypt with an integrated chat system for doctors and users.
-- **Technologies:** 
-  - Flutter, Dart, Bloc, Firebase
+
+Platform helping users find medicine and medical equipment across Egypt.
+
+**Tech**
+
+```
+Flutter
+Firebase
+Real-time Chat
+```
+
 ---
 
 ### Lemon Spaces
-- **Description:** Offers seamless booking and data analysis to enhance customer experience.
-- **Technologies:** 
-  - Flutter, Dart, Bloc, RESTful APIs, Firebase
+
+Booking platform with analytics for workspace management.
+
+**Tech**
+
+```
+Flutter
+REST APIs
+Firebase
+```
+
 ---
 
 ### HeadsHunt
-- **Description:** Integrates payment, authentication, Google Maps, and location tracking for an enhanced user experience.
-- **Technologies:** 
-  - Flutter, Dart, Bloc, RESTful APIs, Firebase
 
-## Skills
-- **Flutter Development:** Expert in developing mobile applications using Flutter.
-- **Dart Programming:** Proficient in Dart for Flutter development.
-- **Bloc/Cubit State Management:** Experienced in state management with Bloc/Cubit architecture.
-- **Riverpod State Management:** Experienced in state management with Riverpod.
-- **Firebase Integration:** Skilled in integrating Firebase services.
-- **RESTful APIs:** Capable of working with RESTful APIs.
-- **Fullstack MERN:** Proficient in React, Node.js, Express, MongoDB.
-- **Next.js:** Experienced with server-side rendering.
-- **Android Native Development:** Knowledgeable in Android native development with Kotlin.
-- **Git:** Proficient in using Git for version control.
+Location-based application integrating payments and Google Maps.
 
-## Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+**Tech**
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ikyrillos&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
+```
+Flutter
+Firebase
+Google Maps
+Payments
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ikyrillos&icon=0&color=3)](https://visitcount.itsvg.in)
+
+# ⚙ Tech Stack
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge\&logo=express)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+
+### Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+
+---
+
+# 📊 GitHub Analytics
+
+![stats](https://github-readme-stats.vercel.app/api?username=Ikyrillos\&show_icons=true\&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Ikyrillos\&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos\&layout=compact\&theme=tokyonight)
+
+---
+
+# 💬 Terminal Philosophy
+
+```
+> quote
+
+"Things don't turn up in this world until somebody turns them up."
+— James A. Garfield
+```
+
+---
+
+![visitors](https://visitcount.itsvg.in/api?id=Ikyrillos\&icon=6\&color=12)
+
+```
